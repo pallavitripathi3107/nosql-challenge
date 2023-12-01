@@ -7,13 +7,13 @@
 # Commands run
 Following commands were run after cd to folder "Starter_Code 26"
 * `git clone git@github.com:pallavitripathi3107/nosql-challenge.git`
-* git add NoSQL_analysis_starter.ipynb 
-* git commit -m "analysis starter"
-* git push
-* git add NoSQL_setup_starter.ipynb
-* git commit -m "setup added"
-* git push
-* cd ..
-* git add Resources
-* git commit -m "Resources added"
-* git push
+* `git add NoSQL_analysis_starter.ipynb `
+* `git commit -m "analysis starter"`
+* `git push`
+* `git add NoSQL_setup_starter.ipynb`
+* `git commit -m "setup added"`
+* `git push`
+* `cd ..`
+* `git add Resources`
+* `git commit -m "Resources added"`
+* `git push`
